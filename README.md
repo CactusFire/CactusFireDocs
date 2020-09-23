@@ -21,7 +21,7 @@ Mis desarolladores son:  `@LHCLYT#3996 ` y ` @! Salt ♡#5437`
 
 ## ¿Como añado el bot a mi servidor?
 
-¡Es MUY sencillo! ¡Aqui te dejo un link de invitacion! [Invitacion](https://discordapp.com/oauth2/authorize?client_id=543567770579894272&scope=bot&permissions=8)
+¡Es MUY sencillo! ¡Aqui te dejo un link de [invitacion](https://discordapp.com/oauth2/authorize?client_id=543567770579894272&scope=bot&permissions=8)!
 
 Es posible que durante su uso, puedas sufrir pequeños errores y/o fallos en el funcionamiento, esto es debido a que los desarolladores estamos 24/7 desarollando.💜
 
