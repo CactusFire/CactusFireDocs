@@ -4,7 +4,7 @@
 </p>
 <h1  align="center">CactusFire</h1>
 <p  align="center">
-<a  href="https://cactusfire.thcommunity.xyz"><img  src="https://img.shields.io/static/v1?label=Site&message=CactusFire&color=2d572c"></a>
+<a  href="https://cactusfire.xyz"><img  src="https://img.shields.io/static/v1?label=Site&message=CactusFire&color=2d572c"></a>
 <a href="TWITTER"><img src="https://img.shields.io/twitter/follow/cactusfire?style=social"></a>
 </p>
 
@@ -41,5 +41,9 @@ He dispuesto un servidor de soporte que reporta de manera general los problemas 
  - [x] Interacción
  - [ ]  Reaction Roles
  
+## ¡Dashboard!
+
+- La dashboard esta disponible en: https://cactusfire.xyz
+
 ##### Servidor de Soporte!
 [![Server](https://discordapp.com/api/guilds/551632213767094272/embed.png?style=banner2)](https://discord.gg/wuRfqxS)
