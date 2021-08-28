@@ -39,7 +39,7 @@ He dispuesto un servidor de soporte que reporta de manera general los problemas 
  
 ## ¡Dashboard!
 
-- La dashboard esta disponible en: 
+- La dashboard esta disponible en: https://cactusfire.xyz/
 
 ## ¡Premium!
 
