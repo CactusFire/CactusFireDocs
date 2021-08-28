@@ -10,40 +10,41 @@
 
 ## ¿Quien soy?
 
-¡Hola!, mi nombre es CactusFire. Soy un bot multifuncion ayuda en vuestros servidores a realizar diferentes funciones!.
+¡Hola!, mi nombre es CactusFire. Soy un bot multifuncion para ayudar y divertir a tu servidor!.
 
 ¡Poco a poco estamos conseguiendo nuestros objetivos!. ¡Gracias a todos ❤!
 
 ## ¿Desarolladores?
 
-Mis desarolladores son:  `@LHCLYT#3996 ` y ` @! Salt ♡#5437`
-¡Tienen MD'S abiertos para cualquier pregunta!
+Mi desarollador principal es:  `@LHCLYT#3996`
+Mi desarollador web es:  `@Louis.#5409`
+
+¡Tenmos MD'S abiertos para cualquier pregunta!
 
 ## ¿Como añado el bot a mi servidor?
 
-¡Es MUY sencillo! ¡Aqui te dejo un link de [invitacion](https://discordapp.com/oauth2/authorize?client_id=543567770579894272&scope=bot&permissions=8)!
+¡Es MUY sencillo! ¡Aqui te dejo un link de [invitación](https://invite.cactusfire.xyz)!
 
-Es posible que durante su uso, puedas sufrir pequeños errores y/o fallos en el funcionamiento, esto es debido a que los desarolladores estamos 24/7 desarollando.💜
+Es posible que durante su uso, puedas sufrir pequeños errores y/o fallos en el funcionamiento, esto es debido a que los desarolladores estamos 24/7 desarollando y solucionado errores.💜
 
 ## ¡Soporte!
 
 Con el fin de estar informado sobre lo que puede suceder con los comandos, he decidido mostrárselos de una manera más llamativa.
 
-He dispuesto un servidor de soporte que reporta de manera general los problemas que pueda tener el bot o los comandos, aqui el enlace:
+He dispuesto un servidor de soporte que reporta de manera general los problemas que pueda tener el bot o los comandos, aqui el [enlace](https://invite.cactusfire.xyz)
 
 ## ¡Funcionalidades!
 
- - [x] Información
- - [x] Administración
- - [x]  Economía
- - [x]  Diversion
- - [x] Música
- - [x] Interacción
- - [ ]  Reaction Roles
+- Tienes las funcionalidades disponibles en: https://cactusfire.xyz/docs
  
 ## ¡Dashboard!
 
-- La dashboard esta disponible en: https://cactusfire.xyz
+- La dashboard esta disponible en: 
+
+## ¡Premium!
+
+- Puedes ayudar a este proyecto, comprando CactusFire Premium desde: https://cactusfire.xyz/premium
+
 
 ##### Servidor de Soporte!
-[![Server](https://discordapp.com/api/guilds/551632213767094272/embed.png?style=banner2)](https://discord.gg/wuRfqxS)
+[![Server](https://discordapp.com/api/guilds/551632213767094272/embed.png?style=banner2)](https://discord.cactusfire.xyz)
