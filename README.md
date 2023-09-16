@@ -8,46 +8,36 @@
 <a href="TWITTER"><img src="https://img.shields.io/twitter/follow/cactusfire?style=social"></a>
 </p>
 
-## ¿Quién soy?
-• ¡Hola!, mi nombre es CactusFire. CactusFire, es un bot de Discord multifunciones para tu servidor. Con Cactus podrás disfrutar de cientos de comandos y funciones directamente en tu servidor de Discord. 
+# Introducing CactusFire - The Ultimate Discord Bot
 
-• Soy uno de los mejores bots en mí estilo para mantener tu servidor seguro y tranquilo sin que tengas que participar en su moderación. Además, completamente en español, hecho por personas de habla española, ¿qué más se puede pedir?
+Looking for a bot that can take your Discord server to the next level? Look no further than CactusFire! Our multifunctional Discord bot offers hundreds of commands and functions, all designed to make your Discord experience more enjoyable.
 
-• Administra tu servidor de manera rápida y sencilla, disfruta de la calidad de este bot, que sin duda alguna, marca la diferencia con los otros en su especie, y déjate ayudar por su servicio técnico, que trabaja eficientemente.
+With CactusFire, you'll enjoy a host of features that will keep your server safe, secure, and running smoothly. Our bot is one of the best on the market, designed to keep your server quiet and well-moderated without requiring constant attention.
 
-• Sus recomendaciones lo hacen ver, un bot divertido, funcional, sencillo para usar. CactusFire es todoterreno, cumple funciones de automod, de utilidad y diversión. 
+But CactusFire is more than just a moderation tool. Our bot is an all-rounder, offering games, utility, and fun functions that are sure to keep you and your community entertained for hours on end.
 
-• Con Cactus, ¡nunca te aburrirás en tu servidor de Discord!
+Plus, with a team of over 12 developers constantly working to improve the bot and provide top-notch technical support, you can rest assured that you're getting the best possible experience and support.
 
-• ¡Poco a poco estamos conseguiendo nuestros objetivos!. ¡Gracias a todos ❤!
+## Features
+- Hundreds of commands and functions to choose from, all designed to make your Discord experience more enjoyable
+- All commands work with the **/** prefix and can be customized to suit your needs
+- Easy-to-use interface that makes managing your server a breeze
+- Automod, utility, and fun functions to keep your community entertained and engaged
 
-## ¿Desarrollador?
-• Mi desarrollador es [LHCLYT](https://lhclyt.xyz) y lleva a día de hoy 3 años desarrollándome.
-• Gracias a nuestros colaboradores, [Louis](https://cactusfire.xyz/louis), [KamerrEzz](https://kamerrezz.com) 
-• Gracias a [kiaura.eu](https://kiaura.eu) por el soporte en nuestros servidores!
+## Premium Version
+Want to support our project and unlock even more features? Consider upgrading to our premium version at https://cactusfire.xyz/premium. With premium, you'll get access to exclusive commands and features, as well as priority technical support.
 
-• ¡Tenemos MD'S abiertos para cualquier pregunta!
+## Command Status and Support
+Stay informed about our bot's commands and get support when you need it by visiting our website at https://cactusfire.xyz/ or joining our support server at https://discord.cactusfire.xyz/
 
-## ¿Como añado el bot a mi servidor?
-• ¡Es MUY sencillo! ¡Aqui te dejo un link de [invitación](https://invite.cactusfire.xyz)!
+## Meet the Developer
+Our lead developer, LHCLYT (https://lhclyt.space/), has been working on CactusFire for over 4 years. But with a growing team of talented developers, we're constantly improving and expanding the bot's capabilities. 
 
-• Es posible que durante su uso, puedas sufrir pequeños errores y/o fallos en el funcionamiento, esto es debido a que los desarolladores estamos 24/7 desarollando y solucionado errores.💜
+## Command Status and Support
+In order to be informed about what can happen with the commands, I have decided to show them to you in a more eye-catching way, you can access them from the website: https://cactusfire.xyz/. 
 
-## ¡Soporte!
-• Con el fin de estar informado sobre lo que puede suceder con los comandos, he decidido mostrárselos de una manera más llamativa.
+Ready to take your Discord server to the next level? Add CactusFire today and experience the ultimate Discord bot for yourself!
 
-• He dispuesto un servidor de soporte que reporta de manera general los problemas que pueda tener el bot o los comandos, aqui el [enlace](https://invite.cactusfire.xyz)
-
-## ¡Funcionalidades!
-• Tienes las funcionalidades disponibles en: https://cactusfire.xyz/docs
- 
-## ¡Dashboard!
-• La dashboard esta disponible en: https://cactusfire.xyz/
-
-## ¡Premium!
-• Puedes ayudar a este proyecto, comprando CactusFire Premium desde: https://cactusfire.xyz/premium
-
-##### Servidor de Soporte!
 [![Servidor](https://discordapp.com/api/guilds/551632213767094272/embed.png?style=banner2)](https://discord.gg/wuRfqxS)
 
-[![Youtube](https://yt-embed.herokuapp.com/embed?v=3jyNHcfJlcE)](https://www.youtube.com/watch?v=3jyNHcfJlcE "Cómo usar CactusFire | Bot Multifunción")
+<a title="CactusFireMainYT" href="https://www.youtube.com/watch?v=3jyNHcfJlcE"><img src="https://i.ytimg.com/vi/3jyNHcfJlcE/maxresdefault.jpg" alt="CactusFireMainYT"/></a>
