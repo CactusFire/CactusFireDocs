@@ -1,6 +1,6 @@
 
 <p  align="center">
-<img  src="https://media.discordapp.net/attachments/740042085733761034/758328822323085332/descarga-6_1.png?width=360&height=360">
+<img  src="https://i.imgur.com/G02BMcJ.png">
 </p>
 <h1  align="center">CactusFire</h1>
 <p  align="center">
