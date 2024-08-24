@@ -31,7 +31,7 @@ Want to support our project and unlock even more features? Consider upgrading to
 Stay informed about our bot's commands and get support when you need it by visiting our website at https://cactusfire.xyz/ or joining our support server at https://discord.cactusfire.xyz/
 
 ## Meet the Developer
-Our lead developer, Manel (https://manelcomiche.com), has been working on CactusFire for over 4 years. But with a growing team of talented developers, we're constantly improving and expanding the bot's capabilities. 
+Our lead developer, Manel (https://manelcomiche.com), has been working on CactusFire for over 6 years. But with a growing team of talented developers, we're constantly improving and expanding the bot's capabilities. 
 
 ## Command Status and Support
 In order to be informed about what can happen with the commands, I have decided to show them to you in a more eye-catching way, you can access them from the website: https://cactusfire.xyz/. 
